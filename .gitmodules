@@ -1,0 +1,9 @@
+[submodule "cv-html"]
+	path = cv-html
+	url = https://github.com/felix-hauger/cv-html.git
+[submodule "cv-html-css"]
+	path = cv-html-css
+	url = https://github.com/felix-hauger/cv-html-css.git
+[submodule "site-la-plateforme"]
+	path = site-la-plateforme
+	url = https://github.com/felix-hauger/site-la-plateforme.git
